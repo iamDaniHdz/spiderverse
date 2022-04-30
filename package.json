@@ -1,0 +1,15 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Diseño de Software con TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest",
+    "start": "node index.js"
+  },
+  "author": "Daniel Hernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
